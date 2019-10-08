@@ -1,2 +1,2 @@
 # spell-checker
-spelling correction with python library.
+spelling correction with python libraries like spellchecker and textblob.
